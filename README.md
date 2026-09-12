@@ -1,7 +1,7 @@
-## RedesNeurais
+# RedesNeurais
 
-# NeuralNetworkFromScratch
+## NeuralNetworkFromScratch
 Aprendizado de redes neurais através do curso Neural Networks from Scratch do canal sentdex
 
-# NeuralNetworks
+## NeuralNetworks
 Modelo de rede neural feita com PyTorch na plataforma google Colab
